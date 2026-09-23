@@ -3,7 +3,7 @@ import heroImage from '../images/books-collage-ClBVX7zc.jpg';
 
 const { useEffect, useState } = React;
 
-const telegramLink = 'https://t.me/+c-rISy_fuY83NzNl';
+const telegramLink = 'https://telegram.me/NEHA_BOOK_PUBLICATION2';
 
 const marqueeItems = [
   'Sneha from Ahmedabad just joined',
